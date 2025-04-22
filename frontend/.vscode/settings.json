@@ -1,0 +1,16 @@
+{
+  "css.validate": false,
+  "tailwindCSS.validate": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "python.defaultInterpreterPath": "C:\\Users\\HP\\anaconda3\\python.exe",
+  "python.analysis.extraPaths": ["C:\\Users\\HP\\anaconda3\\Lib\\site-packages"]
+}
